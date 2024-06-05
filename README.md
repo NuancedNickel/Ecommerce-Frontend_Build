@@ -3,7 +3,7 @@ This repository contains the frontend part of the Ecommerce project. The fronten
 and frameworks to provide a seamless and responsive user experience. The project is deployed on Vercel and can be accessed here.
 
 # Deployment        
-The frontend part of the project is deployed on Vercel. You can visit the live application [here](https://ecommerce-frontend-build.vercel.app/)
+The frontend part of the project is deployed on Vercel. You can visit the live application [here](https://ecommerce-frontend-build.vercel.app/).
 
 # Tech Stack
 <p style="line-height: 2;">
@@ -63,5 +63,5 @@ Replace the placeholder values with your actual Firebase and Stripe configuratio
 
 # Backend Repository
 The backend part of this Ecommerce project handles the server-side logic, API endpoints, and database interactions. 
-It is built with Node.js, Express, and MongoDB. You can find the [backend repository](https://github.com/NuancedNickel/Ecommerce-ServerBuild)
+It is built with Node.js, Express, and MongoDB. You can find the backend repository [here](https://github.com/NuancedNickel/Ecommerce-ServerBuild).
 .
